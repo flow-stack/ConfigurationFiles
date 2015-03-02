@@ -1,0 +1,1 @@
+Metacello new	baseline: 'ConfigurationFiles';	repository: 'github://flow-stack/ConfigurationFiles:master/src';	load: #( 'all' ).Smalltalk saveSession.

@@ -1,0 +1,9 @@
+#!/bin/bash
+# gets a fresh Pharo image and loads the project
+
+./getPharo
+
+echo "Opening Pharo to load the project ..."
+./pharo-ui Pharo.image ProjectBuilder.st
+
+echo "Ready!"
