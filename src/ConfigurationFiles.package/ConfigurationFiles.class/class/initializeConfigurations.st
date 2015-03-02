@@ -1,4 +1,4 @@
 initialization
 initializeConfigurations
 
-	^ configurations := self makeConfigurations
+	^ configurations := Dictionary new.
