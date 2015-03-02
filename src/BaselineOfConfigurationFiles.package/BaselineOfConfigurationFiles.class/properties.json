@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfConfigurationFiles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfConfigurationFiles",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
