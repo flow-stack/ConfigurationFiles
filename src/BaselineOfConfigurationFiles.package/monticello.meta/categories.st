@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfConfigurationFiles!
+SystemOrganization addCategory: #'BaselineOfConfigurationFiles'!
