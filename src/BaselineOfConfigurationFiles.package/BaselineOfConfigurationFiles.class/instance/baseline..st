@@ -1,6 +1,7 @@
 accessing
 baseline: spec
-	<baseline>
-	self
-		baselinePharo: spec;
-		baselineGemStone: spec
+  <baseline>
+  self
+    baselineCommon: spec;
+    baselinePharo: spec;
+    baselineGemStone: spec
